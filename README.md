@@ -25,9 +25,9 @@ I love transforming raw data into actionable insights and building interactive r
 
 ## 📊 Projects & Highlights
 
-- [**Travel Insurance Analysis**](https://github.com/ayuridialga/travel-insurance-analysis) – Power BI dashboard analyzing insurance products, sales, and client profiles.  
-- [**Machine Learning Portfolio**](https://github.com/ayuridialga/ml-portfolio) – Projects exploring ML algorithms and predictive modeling.  
-- [**Portfolio Dashboard**](https://github.com/ayuridialga/portfolio-dashboard) – Interactive dashboard showing KPIs across different datasets.
+- [**Travel Insurance Analysis**](https://github.com/Ayuri90/travel-insurance-analysis) – Power BI dashboard analyzing insurance products, sales, and client profiles.  
+- [**Machine Learning Portfolio**](https://github.com/Auri90/ml-portfolio) – Projects exploring ML algorithms and predictive modeling.  
+- [**Portfolio Dashboard**](https://github.com/Ayuri90/portfolio-dashboard) – Interactive dashboard showing KPIs across different datasets.
 
 
 ## 📫 Contact
