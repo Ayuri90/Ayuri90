@@ -3,7 +3,6 @@
 I'm a data enthusiast and aspiring actuary, passionate about **data analysis, visualization, and Power BI dashboards**.
 Passionate about data science, risk modeling, and software development. I enjoy working on projects that combine actuarial techniques, statistical modeling, and machine learning to solve real-world problems.
 I love transforming raw data into actionable insights and building interactive reports.
-![Profile Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
@@ -30,8 +29,6 @@ I love transforming raw data into actionable insights and building interactive r
 - [**Machine Learning Portfolio**](https://github.com/ayuridialga/ml-portfolio) – Projects exploring ML algorithms and predictive modeling.  
 - [**Portfolio Dashboard**](https://github.com/ayuridialga/portfolio-dashboard) – Interactive dashboard showing KPIs across different datasets.
 
-![Projects GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
-
 ---
 
 ## 📫 Contact
@@ -47,6 +44,5 @@ I love transforming raw data into actionable insights and building interactive r
 - 🎯 I love exploring **data visualization techniques** and creating **interactive dashboards**.  
 - 🎨 Always striving to make **dashboards both insightful and visually appealing**.  
 
-![Fun GIF](https://media.giphy.com/media/xT9KVH9vRYgS0yXfGk/giphy.gif)
 ---
 
