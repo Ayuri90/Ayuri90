@@ -32,7 +32,7 @@ I love transforming raw data into actionable insights and building interactive r
 
 ## 📫 Contact
 
-- LinkedIn: [Ayuri Dialga]([https://www.linkedin.com/in/ayuridialga](https://www.linkedin.com/in/frege-meli-kouyem-b81805210))  
+- LinkedIn: [Ayuri Dialga](https://www.linkedin.com/in/frege-meli-kouyem-b81805210)  
 - Email: rultimate9@gmail.com  
 
 ## ⚡ Fun Facts
