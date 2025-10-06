@@ -46,3 +46,9 @@ I love transforming raw data into actionable insights and building interactive r
 
 ---
 
+## 📈 GitHub Stats
+
+![Ayuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuridialga&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuridialga&layout=compact&theme=radical)
+
+---
