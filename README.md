@@ -1,4 +1,4 @@
-# Hi, I'm Ayuri90 👋
+# Hi, I'm Ayuri90 (Frege)👋
 
 Actuarial Science & Data Science Enthusiast 📊 | Risk Modeling & Machine Learning 🤖 | Power BI dashboards 📈
 
