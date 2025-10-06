@@ -1,4 +1,4 @@
-# Hi, I'm Ayuri Dialga 👋
+# Hi, I'm Ayuri90 👋
 
 I'm a data enthusiast and aspiring actuary, passionate about **data analysis, visualization, and Power BI dashboards**.
 Passionate about data science, risk modeling, and software development. I enjoy working on projects that combine actuarial techniques, statistical modeling, and machine learning to solve real-world problems.
