@@ -2,15 +2,11 @@
 
 Actuarial Science & Data Science Enthusiast 📊 | Risk Modeling & Machine Learning 🤖 | Power BI dashboards 📈
 
----
-
 ## 🚀 About Me
 
 I'm a data enthusiast and aspiring actuary, passionate about **Machine Learning , Acturial science, and Power BI dashboards**.
 I enjoy working on projects that combine actuarial techniques, statistical modeling, and machine learning to solve real-world problems.
 I love transforming raw data into actionable insights and building interactive reports.
-
----
 
 ## 🛠 Skills
 
@@ -27,22 +23,17 @@ I love transforming raw data into actionable insights and building interactive r
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=flat&logo=power-bi&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
 ## 📊 Projects & Highlights
 
 - [**Travel Insurance Analysis**](https://github.com/ayuridialga/travel-insurance-analysis) – Power BI dashboard analyzing insurance products, sales, and client profiles.  
 - [**Machine Learning Portfolio**](https://github.com/ayuridialga/ml-portfolio) – Projects exploring ML algorithms and predictive modeling.  
 - [**Portfolio Dashboard**](https://github.com/ayuridialga/portfolio-dashboard) – Interactive dashboard showing KPIs across different datasets.
 
----
 
 ## 📫 Contact
 
 - LinkedIn: [Ayuri Dialga]([https://www.linkedin.com/in/ayuridialga](https://www.linkedin.com/in/frege-meli-kouyem-b81805210))  
 - Email: rultimate9@gmail.com  
-
----
 
 ## ⚡ Fun Facts
 
