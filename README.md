@@ -1,5 +1,11 @@
 # Hi, I'm Ayuri90 👋
 
+Actuarial Science & Data Science Enthusiast | Risk Modeling & Machine Learning
+
+---
+
+## About Me
+
 I'm a data enthusiast and aspiring actuary, passionate about **data analysis, visualization, and Power BI dashboards**.
 Passionate about data science, risk modeling, and software development. I enjoy working on projects that combine actuarial techniques, statistical modeling, and machine learning to solve real-world problems.
 I love transforming raw data into actionable insights and building interactive reports.
